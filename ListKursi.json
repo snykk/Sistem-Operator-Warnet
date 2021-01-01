@@ -1,0 +1,92 @@
+[
+    {
+        "Kursi" : "1",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-" ,
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "2",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "3",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "4",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "5",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "------",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "6",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "7",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "8",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "9",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    },
+    {
+        "Kursi" : "10",
+        "Status" : "Ready",
+        "Username" : "-----",
+        "Mulai" : "-----",
+        "Berhenti" : "-----",
+        "Lama" : "-",
+        "Harga" : 0
+    }
+]
